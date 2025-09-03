@@ -2,3 +2,4 @@
 
 "Testing the complete CI/CD pipeline."
 "testing"
+"test"
